@@ -187,6 +187,9 @@
 		5FB00EBD21E7A0E200E92637 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					12312,
+				);
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = CottonCandy;
